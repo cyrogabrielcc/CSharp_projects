@@ -1,0 +1,16 @@
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\Serie.exe
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\Serie.deps.json
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\Serie.runtimeconfig.json
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\Serie.runtimeconfig.dev.json
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\Serie.dll
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\ref\Serie.dll
+C:\Users\cyrog\Documents\C#\Serie\bin\Debug\net5.0\Serie.pdb
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.csprojAssemblyReference.cache
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.AssemblyInfoInputs.cache
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.AssemblyInfo.cs
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.csproj.CoreCompileInputs.cache
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.dll
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\ref\Serie.dll
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.pdb
+C:\Users\cyrog\Documents\C#\Serie\obj\Debug\net5.0\Serie.genruntimeconfig.cache
